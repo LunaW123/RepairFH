@@ -1,0 +1,10 @@
+while true do wait(0.5) 
+
+local args = {
+    [1] = "amplize is so cute 😍😍",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end
