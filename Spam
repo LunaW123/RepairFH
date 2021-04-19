@@ -1,7 +1,7 @@
 while true do wait(0.5) 
 
 local args = {
-    [1] = "amplize is so cute 😍😍",
+    [1] = "im a proud member of the lgbtq community",
     [2] = "All"
 }
 
